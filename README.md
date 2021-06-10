@@ -14,18 +14,10 @@ I discovered data science while studying quantitative political science research
     <a href="https://github.com/robert-mdh-bui?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white"></a>
 </p>
 
-![R][rlang]
-![RStudio][rstudio]
-![tidyverse][tidyverse]
-![tidymodels][tidymodels]
-![shiny][shiny]
-![tensorflow][tensorflow]
-![dplyr][dplyr]
-![dbplyr][dbplyr]
-![rvest][rvest]
-![ggplot2][ggplot2]
-![lubridate][lubridate]
-![rmd][rmd]
+![R][rlang]{:height="150px" width="150px"}![RStudio][rstudio]{:height="150px" width="150px"}![tidyverse][tidyverse]{:height="150px" width="150px"}
+![tidymodels][tidymodels]{:height="150px" width="150px"}![shiny][shiny]{:height="150px" width="150px"}![tensorflow][tensorflow]{:height="150px" width="150px"}
+![dplyr][dplyr]{:height="150px" width="150px"}![dbplyr][dbplyr]{:height="150px" width="150px"}![rvest][rvest]{:height="150px" width="150px"}
+![ggplot2][ggplot2]{:height="150px" width="150px"}![lubridate][lubridate]{:height="150px" width="150px"}![rmd][rmd]{:height="150px" width="150px"}
 
 ### Good Proficiency
 
@@ -65,7 +57,7 @@ I discovered data science while studying quantitative political science research
 ### Looking Forward to Learning
 ---
 
-[rlang]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg "R"
+[rlang]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg "R" 
 [rstudio]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rstudio.svg "RStudio"
 [tidyverse]: https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg "tidyverse"
 [tidymodels]: https://github.com/rstudio/hex-stickers/blob/master/SVG/tidymodels.svg "tidyverse"
