@@ -8,6 +8,25 @@ Hello! I'm Robert, nice to meet you. This is the cardboard box of jumbled old ca
 
 I discovered data science while studying quantitative political science research, and fell in love ever since. Previously I worked as a graphic designer, and has used many graphic design principles in making data visualisations. 
 
+### Bread-and-Butter
+
+<p align="center">
+    <a href="https://github.com/robert-mdh-bui?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white"></a>
+</p>
+
+![R][rlang]
+![RStudio][rstudio]
+![tidyverse][tidyverse]
+![tidymodels][tidymodels]
+![shiny][shiny]
+![tensorflow][tensorflow]
+![dplyr][dplyr]
+![dbplyr][dbplyr]
+![rvest][rvest]
+![ggplot2][ggplot2]
+![lubridate][lubridate]
+![rmd][rmd]
+
 ### Good Proficiency
 
 <p align="center">
@@ -45,6 +64,19 @@ I discovered data science while studying quantitative political science research
 
 ### Looking Forward to Learning
 ---
+
+[rlang]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg "R"
+[rstudio]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rstudio.svg "RStudio"
+[tidyverse]: https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg "tidyverse"
+[tidymodels]: https://github.com/rstudio/hex-stickers/blob/master/SVG/tidymodels.svg "tidyverse"
+[shiny]: https://github.com/rstudio/hex-stickers/blob/master/SVG/shiny.svg "shiny"
+[tensorflow]: https://github.com/rstudio/hex-stickers/blob/master/SVG/tensorflow.svg "tensorflow"
+[dplyr]: https://github.com/rstudio/hex-stickers/blob/master/SVG/dplyr.svg "dplyr"
+[dbplyr]: https://github.com/rstudio/hex-stickers/blob/master/SVG/dbplyr.svg "dbplyr"
+[rvest]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rvest.svg "rvest"
+[ggplot2]: https://github.com/rstudio/hex-stickers/blob/master/SVG/ggplot2.svg "ggplot2"
+[lubridate]: https://github.com/rstudio/hex-stickers/blob/master/SVG/lubridate.svg "lubridate"
+[rmd]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg "Rmarkdown"
 
 <!---
 robert-mdh-bui/robert-mdh-bui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
