@@ -6,13 +6,16 @@ Hello! I'm Robert, nice to meet you. This is the cardboard box of jumbled old ca
 
 # What I Do
 
-I discovered data science while studying quantitative political science research, and fell in love ever since. Previously I worked as a graphic designer, and has used many graphic design principles in making data visualisations.
+I discovered data science while studying quantitative political science research, and fell in love ever since. Previously I worked as a graphic designer, and has used many graphic design principles in making data visualisations. 
 
 ### Good Proficiency
 
 <p align="center">
     <a href="https://github.com/robert-mdh-bui?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white"></a>
     <a href="https://github.com/robert-mdh-bui?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/robert-mdh-bui?tab=repositories&language=shell" target="_blank"><img alt="Shell" src="https://img.shields.io/badge/-shell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"></a>
+    <a href="https://github.com/robert-mdh-bui?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
+    <a href="" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
 </p>
 
 ### Currently Learning
