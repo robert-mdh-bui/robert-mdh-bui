@@ -10,9 +10,10 @@ I discovered data science while studying quantitative political science research
 
 ### Good Proficiency
 
+<p align="center">
     <a href="https://github.com/robert-mdh-bui?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white"></a>
     <a href="https://github.com/robert-mdh-bui?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
-
+</p>
 
 ### Currently Learning
 
