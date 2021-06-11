@@ -13,30 +13,30 @@ I discovered data science while studying quantitative political science research
 <p align="center">
     <a href="https://github.com/robert-mdh-bui?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white"></a>
     <br>
-    <a href="https://" target="_blank"><img alt="R" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="RStudio" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/RStudio.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="tidyverse" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="magrittr" src="http://hexb.in/vector/magrittr.svg" height = 100 width = 100></a>
+    <a href="https://www.r-project.org/" target="_blank"><img alt="R" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg" height = 100 width = 100></a>
+    <a href="https://www.rstudio.com/" target="_blank"><img alt="RStudio" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/RStudio.svg" height = 100 width = 100></a>
+    <a href="https://www.tidyverse.org/" target="_blank"><img alt="tidyverse" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg" height = 100 width = 100></a>
+    <a href="https://magrittr.tidyverse.org/" target="_blank"><img alt="magrittr" src="http://hexb.in/vector/magrittr.svg" height = 100 width = 100></a>
     <br>
-    <a href="https://" target="_blank"><img alt="rvest" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rvest.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="dplyr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/dplyr.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="dbplyr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/dbplyr.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="lubridate" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/lubridate.svg" height = 100 width = 100></a>
+    <a href="https://rvest.tidyverse.org/" target="_blank"><img alt="rvest" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rvest.svg" height = 100 width = 100></a>
+    <a href="https://dplyr.tidyverse.org/" target="_blank"><img alt="dplyr" src="https://github.com/tidyverse/dplyr/blob/master/pkgdown/favicon/apple-touch-icon-180x180.png" height = 100 width = 100></a>
+    <a href="https://dbplyr.tidyverse.org/" target="_blank"><img alt="dbplyr" src="https://github.com/tidyverse/dbplyr/blob/master/pkgdown/favicon/apple-touch-icon-180x180.png" height = 100 width = 100></a>
+    <a href="https://lubridate.tidyverse.org/" target="_blank"><img alt="lubridate" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/lubridate.svg" height = 100 width = 100></a>
     <br>
-    <a href="https://" target="_blank"><img alt="tidytext" src="https://github.com/juliasilge/tidytext/blob/master/man/figures/tidytext.png" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="stringr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/stringr.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="scales" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/scales.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="forcats" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/forcats.svg" height = 100 width = 100></a>
+    <a href="https://www.tidytextmining.com/" target="_blank"><img alt="tidytext" src="https://github.com/juliasilge/tidytext/blob/master/man/figures/tidytext.png" height = 100 width = 100></a>
+    <a href="https://stringr.tidyverse.org/" target="_blank"><img alt="stringr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/stringr.svg" height = 100 width = 100></a>
+    <a href="https://scales.r-lib.org/" target="_blank"><img alt="scales" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/scales.svg" height = 100 width = 100></a>
+    <a href="https://forcats.tidyverse.org/" target="_blank"><img alt="forcats" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/forcats.svg" height = 100 width = 100></a>
     <br>
-    <a href="https://" target="_blank"><img alt="ggplot2" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/ggplot2.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="rmarkdown" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="shiny" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/shiny.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="Netlify" src="http://hexb.in/vector/netlify.svg" height = 100 width = 100></a>
+    <a href="https://ggplot2.tidyverse.org/" target="_blank"><img alt="ggplot2" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/ggplot2.svg" height = 100 width = 100></a>
+    <a href="https://rmarkdown.rstudio.com/" target="_blank"><img alt="rmarkdown" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg" height = 100 width = 100></a>
+    <a href="https://shiny.rstudio.com/" target="_blank"><img alt="shiny" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/shiny.svg" height = 100 width = 100></a>
+    <a href="https://www.netlify.com/" target="_blank"><img alt="Netlify" src="http://hexb.in/vector/netlify.svg" height = 100 width = 100></a>
     <br>
-    <a href="https://" target="_blank"><img alt="tidymodels" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidymodels.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="tensorflow (R)" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tensorflow.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="reticulate" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/reticulate.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="yardstick" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/yardstick.svg" height = 100 width = 100></a>
+    <a href="https://www.tidymodels.org/" target="_blank"><img alt="tidymodels" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidymodels.svg" height = 100 width = 100></a>
+    <a href="https://tensorflow.rstudio.com/" target="_blank"><img alt="tensorflow (R)" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tensorflow.svg" height = 100 width = 100></a>
+    <a href="https://rstudio.github.io/reticulate/" target="_blank"><img alt="reticulate" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/reticulate.svg" height = 100 width = 100></a>
+    <a href="https://yardstick.tidymodels.org/" target="_blank"><img alt="yardstick" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/yardstick.svg" height = 100 width = 100></a>
 </p>
 
 
