@@ -12,8 +12,26 @@ I discovered data science while studying quantitative political science research
 
 <p align="center">
     <a href="https://github.com/robert-mdh-bui?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white"></a>
-    <a href="" target="_blank"><img alt="R" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg" height = 100 width = 100></a>
-    <a href="" target="_blank"><img alt="R" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg" height = 100 width = 100></a>
+    <br>
+    <a href="https://" target="_blank"><img alt="R" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="RStudio" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rstudio.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="tidyverse" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="rvest" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rvest.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="dplyr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/dplyr.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="dbplyr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/dbplyr.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="lubridate" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/lubridate.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="magrittr" src="http://hexb.in/vector/magrittr.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="stringr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/stringr.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="scales" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/scales.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="forcats" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/forcats.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="ggplot2" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/ggplot2.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="rmarkdown" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="shiny" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/shiny.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="Netlify" src="http://hexb.in/vector/netlify.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="tidymodels" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidymodels.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="tensorflow (R)" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tensorflow.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="reticulate" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/reticulate.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="yardstick" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/yardstick.svg" height = 100 width = 100></a>
 </p>
 
 
@@ -85,18 +103,10 @@ I discovered data science while studying quantitative political science research
 
 ---
 
-[rlang]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg "R" 
-[rstudio]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rstudio.svg "RStudio"
-[tidyverse]: https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg "tidyverse"
-[tidymodels]: https://github.com/rstudio/hex-stickers/blob/master/SVG/tidymodels.svg "tidyverse"
+
 [shiny]: https://github.com/rstudio/hex-stickers/blob/master/SVG/shiny.svg "shiny"
-[tensorflow]: https://github.com/rstudio/hex-stickers/blob/master/SVG/tensorflow.svg "tensorflow"
-[dplyr]: https://github.com/rstudio/hex-stickers/blob/master/SVG/dplyr.svg "dplyr"
 [dbplyr]: https://github.com/rstudio/hex-stickers/blob/master/SVG/dbplyr.svg "dbplyr"
 [rvest]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rvest.svg "rvest"
-[ggplot2]: https://github.com/rstudio/hex-stickers/blob/master/SVG/ggplot2.svg "ggplot2"
-[lubridate]: https://github.com/rstudio/hex-stickers/blob/master/SVG/lubridate.svg "lubridate"
-[rmd]: https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg "Rmarkdown"
 
 <!---
 robert-mdh-bui/robert-mdh-bui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
