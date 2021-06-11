@@ -14,7 +14,7 @@ I discovered data science while studying quantitative political science research
     <a href="https://github.com/robert-mdh-bui?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white"></a>
     <br>
     <a href="https://" target="_blank"><img alt="R" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="RStudio" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rstudio.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="RStudio" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/RStudio.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="tidyverse" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="rvest" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rvest.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="dplyr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/dplyr.svg" height = 100 width = 100></a>
