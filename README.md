@@ -16,18 +16,23 @@ I discovered data science while studying quantitative political science research
     <a href="https://" target="_blank"><img alt="R" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rlang.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="RStudio" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/RStudio.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="tidyverse" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg" height = 100 width = 100></a>
+    <a href="https://" target="_blank"><img alt="magrittr" src="http://hexb.in/vector/magrittr.svg" height = 100 width = 100></a>
+    <br>
     <a href="https://" target="_blank"><img alt="rvest" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rvest.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="dplyr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/dplyr.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="dbplyr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/dbplyr.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="lubridate" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/lubridate.svg" height = 100 width = 100></a>
-    <a href="https://" target="_blank"><img alt="magrittr" src="http://hexb.in/vector/magrittr.svg" height = 100 width = 100></a>
+    <br>
+    <a href="https://" target="_blank"><img alt="tidytext" src="https://github.com/juliasilge/tidytext/blob/master/man/figures/tidytext.png" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="stringr" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/stringr.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="scales" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/scales.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="forcats" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/forcats.svg" height = 100 width = 100></a>
+    <br>
     <a href="https://" target="_blank"><img alt="ggplot2" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/ggplot2.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="rmarkdown" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="shiny" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/shiny.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="Netlify" src="http://hexb.in/vector/netlify.svg" height = 100 width = 100></a>
+    <br>
     <a href="https://" target="_blank"><img alt="tidymodels" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidymodels.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="tensorflow (R)" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tensorflow.svg" height = 100 width = 100></a>
     <a href="https://" target="_blank"><img alt="reticulate" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/reticulate.svg" height = 100 width = 100></a>
