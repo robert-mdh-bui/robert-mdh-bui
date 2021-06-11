@@ -92,7 +92,7 @@ I discovered data science while studying quantitative political science research
 
 <p align="center">
     <a href="" target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white"></a>
-    <a href="" target="_blank"><img alt="microsoft-azure" src="https://img.shields.io/badge/-microsoftazure-00C7B7?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+    <a href="" target="_blank"><img alt="microsoft-azure" src="https://img.shields.io/badge/-ms_azure-00C7B7?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
 
 ## Looking Forward to Learning
