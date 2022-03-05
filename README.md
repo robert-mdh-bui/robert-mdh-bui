@@ -8,7 +8,7 @@ Hello! I'm Robert, nice to meet you. This is the cardboard box of jumbled old ca
 
 I discovered data science while studying quantitative political science research, and fell in love ever since. I also moonlit as a graphic designer, and has used many graphic design principles in making data visualisations. 
 
-## Good Proficiency
+## Proficiencies
 
 ### Data Science
 
