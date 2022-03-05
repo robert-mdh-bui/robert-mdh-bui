@@ -23,6 +23,7 @@ I discovered data science while studying quantitative political science research
 #### R Ecosystem
 <p align="center">
     <a href="https://github.com/robert-mdh-bui?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white"></a>
+    <a href="https://github.com/robert-mdh-bui?tab=repositories&language=r" target="_blank"><img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a>
 </p>
 
 #### Python Ecosystem
