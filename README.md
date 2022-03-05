@@ -14,6 +14,7 @@ I discovered data science while studying quantitative political science research
 
 #### Non-Programmatics
 <p align="center">
+    <a href="" target="_blank"><img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"></a>
     <a href="" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"></a>
     <a href="" target="_blank"><img alt="RegEx" src="https://img.shields.io/badge/-RegEx-2f66cd?style=for-the-badge&logo=Sourcegraph&logoColor=white"></a>
 </p>
