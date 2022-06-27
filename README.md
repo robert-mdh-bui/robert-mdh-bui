@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Robert, nice to meet you. This is the cardboard box of jumbled old cables in which I stash all my code. Peruse at your own risk.  
+Hello! This is the cardboard box of jumbled old cables in which I stash all my code. Peruse at your own risk.  
 
 ---
 
