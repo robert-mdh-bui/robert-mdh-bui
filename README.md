@@ -1,17 +1,31 @@
 # About Me
 
-[LinkedIn](https://www.linkedin.com/in/robert-bui/)
+<p align="center">
+    <a href="https://www.linkedin.com/in/robert-bui/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"></a>
+</p>
 
 Dedicated, statistics-driven data analytics specialist offering diverse background in aviation, healthcare, technology, public service, and non-profit. Demonstrated strong organizational and creative problem-solving skills, adept communication abilities and unmatched adaptability. Effective at independently planning and managing diverse projects. Proficient in time management with disciplined execution strategy.
 
-Key skills: Excel, SQL, Tableau, R, RStudio, tidyverse, dplyr, ggplot, caret, tidymodels, plotly, python, pandas, scikit-learn (sklearn), spark, sparkML, sparklyR, pyspark
 
-Open to opportunities in: business analytics, data analytics, data science, machine learning.
+<p align = 'center'>
+    <br>
+    <a href="https://www.linkedin.com/in/robert-bui/" target="_blank"><img alt="UIC" src="https://img.shields.io/badge/-University of Illinois at Chicago-ffffff?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA51BMVEUAAADvLz%2FwLTzwODjwOEbtND7tMz7tM0HxM0HtMkDuMj%2FtM0DvM0DwMz%2FuMj%2FwMj%2FuMkDvMj%2FuMj%2FvMj%2FvM0DuM0DuM0DvM0DuM0DvM0DuMkDvMkDuMj%2FvMkDuMkDvM0DvNEHvN0PvN0TvOEXwOUbwOkfwO0jwPEjwPEnwQk7xSFPyWGLyW2XzYWvzZnD0dH30dn71e4T1fYX1hIz1ho32i5P2jJP2jZT2kZj3lZz3nqX4oKb4pKr4qK35trv5t7z6xMj7z9L83d%2F94%2BX%2B7e7%2B7u%2F%2B7%2FD%2B8PH%2B9vf%2B9%2Fj%2F%2B%2Fv%2F%2FPz%2F%2Fv7zkUj1AAAAH3RSTlMAEBESEklKSkpLTHd3eHl5esTFxcbH6enq6uvr7Pr7kpLLsgAAAJZJREFUeNo9zgOWxEAQANAKlrFtrjG2Pfe%2FTpz8h0YRCijJKTJHIFB51JyK%2BlC%2BnmynYRVvVHc6Kgq0nzpRGMSO8x47JIijg7NeTbfp5nr%2B4UFvnv3L29%2BHCsboWD0ne8dzVJB%2B74vTbLr9vC13YwFY938%2BTL57ztdsEFGAm05HRwFeuzXsZ4Di3cSNF6jgrGSaEoMV1xyWxBfAipj2cAAAAABJRU5ErkJggg%3D%3D&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/robert-bui/" target="_blank"><img alt="United Ground Express" src="https://img.shields.io/badge/-United Ground Express-002244?style=for-the-badge&logo=United Airlines&logoColor=white"></a>
+</p>
 
-<!---
-robert-mdh-bui/robert-mdh-bui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Open to opportunities in: **business analytics, data analytics, data science, machine learning.**
+
+Key skills: 
+
+<p align="center">
+    <a href="" target="_blank"><img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white"></a>
+    <a href="" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white"></a>
+    <a href="" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+    <a href="" target="_blank"><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"></a>
+    <a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=R&logoColor=white"></a>
+</p>
+
+Excel, SQL, Tableau, R, RStudio, tidyverse, dplyr, ggplot, caret, tidymodels, plotly, python, pandas, scikit-learn (sklearn), spark, sparkML, sparklyR, pyspark
 
 # Sample Projects
 
