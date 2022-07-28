@@ -35,7 +35,7 @@ Excel, SQL, Tableau, R, RStudio, tidyverse, dplyr, ggplot, caret, tidymodels, pl
 ORD](https://github.com/robert-mdh-bui/uge-airport-noaa-lookup/blob/main/assets/ORD_screenshot.png?raw=true)](https://github.com/robert-mdh-bui/uge-airport-noaa-lookup)
 
 ### Context: 
-- This web app is created for resource planning use at United Ground Express (a United Airlines company). 
+- This web app is created for resource planning use at a major US legacy airline. 
 
 ### Problem: 
 - In order to gauge each airport's need for de-icing, heat watch, and other winter operations staffing and equipment, resource planning (RP) analysts needs to determine cold months at each airport.
