@@ -26,7 +26,7 @@ Key skills:
     <a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=R&logoColor=white"></a>
 </p>
 
-Excel, SQL, Tableau, R, RStudio, tidyverse, dplyr, ggplot, caret, tidymodels, plotly, python, pandas, scikit-learn (sklearn), spark, sparkML, sparklyR, pyspark
+Excel, SQL, Tableau, PowerBI, R, RStudio, tidyverse, dplyr, ggplot, caret, tidymodels, plotly, python, pandas, scikit-learn (sklearn), spark, sparkML, sparklyR, pyspark
 
 # Sample Projects
 
