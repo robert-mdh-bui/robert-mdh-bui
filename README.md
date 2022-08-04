@@ -20,10 +20,8 @@ Key skills:
 <p align="center">
     <a href="" target="_blank"><img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white"></a>
     <a href="" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white"></a>
-    
     <a href="" target="_blank"><img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white"></a>
     <a href="" target="_blank"><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"></a>
-    
     <a href="" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
     <a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=R&logoColor=white"></a>
 </p>
